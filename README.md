@@ -1,4 +1,5 @@
 Code Smell Taxonomy Research Materials
+
 This repository contains the materials used in the research study "A Novel Taxonomy to Capture Code Smells Caused by Refactoring".
 
 Contents
